@@ -1,0 +1,3 @@
+GET http://localhost:3001/check/ HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsImlhdCI6MTcxNDE1NDk0N30.GVHnda1rq9YOdjEQj0_xrFKNuWNZVzTfcQ8R8CkrZYI
+content-type: application/json

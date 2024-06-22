@@ -1,0 +1,8 @@
+POST http://localhost:3001/groups HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OCwiaWF0IjoxNzE0NDA3MTg2fQ.rEv337Mn_o4Hv3wB1JL89xO2s_JRxKdFia0kSwOVjDs
+
+{
+  "name": "GRupo número dsds",
+  "color": "#EEE"
+}
